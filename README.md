@@ -13,7 +13,7 @@ O EcoIA é um assistente virtual que ajuda usuários a identificarem a lixeira c
 
 ## 🖥️ Protótipo da Interface (Mobile)
 Desenvolvemos uma interface interativa com globo 3D para ser o futuro Mini App do Telegram. 
-[Acesse o protótipo aqui](COLE_O_LINK_DO_SEU_GITHUB_PAGES_AQUI)
+[Acesse o protótipo aqui]((https://natanjhon7.github.io/ecoia-miniapp/))
 
 ## 🚀 Como rodar o projeto
 Como o projeto utiliza n8n (SaaS), a execução local requer:
